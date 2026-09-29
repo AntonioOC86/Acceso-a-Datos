@@ -6,7 +6,7 @@ public class pruebaUsuario {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        String ruta = "datos/inventario.txt";
+        String ruta = "UD00_ADPracticas/datos/inventario.txt";
         int opcion;
         do {
 
