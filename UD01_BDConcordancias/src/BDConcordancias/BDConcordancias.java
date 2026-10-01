@@ -152,7 +152,6 @@ public class BDConcordancias {
                 }
 
                 case 3 -> {
-
                     int minimoAficiones;
 
                     do {
